@@ -1,4 +1,4 @@
-![valorant-yoru](https://github.com/ThisIsElmira/ThisIsElmira/assets/104326899/9988a766-c26b-49c6-8401-579090fb5769)
+<img src="https://media.tenor.com/h-obOh2nH_kAAAAC/valorant-yoru.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ### I will try to not give you up
 ### I will try to never  let you down
