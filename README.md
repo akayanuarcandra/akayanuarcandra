@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/h-obOh2nH_kAAAAC/valorant-yoru.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://media.tenor.com/h-obOh2nH_kAAAAC/valorant-yoru.gif" style="align: center; max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ### I will try to not give you up
 ### I will try to never  let you down
