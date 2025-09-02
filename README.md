@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  I will try to never give you up, I will try to never let you down, I will try to never to run around, and I will try to not desert you 
+  Not an actual programmer, idk why i even use this, but i have to.
   <br>
-  I will try to never make you cry, I will try to never say goodbye, I will try to never gonna tell a lie, and I will try to not hurt you
+  I do design though, so more of my works are visual based.
 </p>
 
 <p align="center">
