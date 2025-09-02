@@ -1,7 +1,7 @@
 <p align="center" dir="auto">
   <animated-image data-catalyst="" style="width: 240px;">
     <a target="_blank" rel="noopener noreferrer" href="https://media.tenor.com/h-obOh2nH_kAAAAC/valorant-yoru.gif" data-target="animated-image.originalLink">
-      <img src="https://media.tenor.com/h-obOh2nH_kAAAAC/valorant-yoru.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+      <img src="https://media1.tenor.com/m/NDhiF4hi124AAAAC/secrets-of.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
     </a>
   </animated-image>
 </p>
